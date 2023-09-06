@@ -46,4 +46,5 @@ Seasonal Ground Temperature Prediction Using Machine Learning Algorithms(2023)
 ### <div align='center'> 뇌졸중 예방을 위한 분류 모델 비교 및 최적화: 데이터 마이닝(2023) </div>
 Comparison and Optimization of Classification Models for Stroke Prevention: Data Mining(2023)
 
-다양한 머신러닝 모델을 활용하여 뇌졸중 발생 위험 요인을 기반으로 예측을 수행하였습니다. Decision Tree, Random Forest, 그리고 K-Nearest Neighbors (Knn) 모델이 특히 우수한 성능을 보여, 뇌졸중 예측에 효과적이라는 결과를 도출하였습니다.
+다양한 머신러닝 모델을 활용하여 뇌졸중 발생 위험 요인을 기반으로 예측을 수행하였습니다.
+Decision Tree, Random Forest, 그리고 K-Nearest Neighbors (Knn) 모델이 특히 우수한 성능을 보여, 뇌졸중 예측에 효과적이라는 결과를 도출하였습니다.
