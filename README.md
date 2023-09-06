@@ -3,7 +3,7 @@ A repository for simple project deliverables.
 
 간단한 프로젝트들을 모아놓은 공간입니다.
 
-
+---
 ### 정부의 소득주도성장 정책이 국민소득에 끼치는 영향(2019)
 The Impact of the Government's Income-led Growth Policy on National Income(2019)
 
